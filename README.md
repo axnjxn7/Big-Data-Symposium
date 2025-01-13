@@ -1,2 +1,2 @@
 # Big-Data-Symposium
-This is the repository for the big data project. Includes the CSVs, python notebooks and etc. 
+This is team 10's big data symposium project.\It includes datasets, text notes and python notebooks along with a detailed report. 
