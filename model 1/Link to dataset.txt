@@ -1,0 +1,3 @@
+https://ffiec.cfpb.gov/data-browser/data/2023?category=states&items=FL
+
+Use this link to get the state_FL.csv (too large for github)
